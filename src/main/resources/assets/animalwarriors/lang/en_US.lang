@@ -1,0 +1,11 @@
+entity.ChickenWarrior.name=Chicken Warrior
+entity.CowWarrior.name=Cow Warrior
+entity.HorseWarrior.name=Horse Warrior
+entity.PigWarrior.name=Pig Warrior
+entity.SheepWarrior.name=Sheep Warrior
+entity.SquidWarrior.name=Squid Warrior
+entity.WolfWarrior.name=Wolf Warrior
+entity.MooshroomWarrior.name=Mooshroom Warrior
+item.morpher.name=Morpher
+warriorizer.mode.message.0=Morpher set to Warriorizer mode
+warriorizer.mode.message.1=Morpher set to Animalizer mode
